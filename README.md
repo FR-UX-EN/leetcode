@@ -9,3 +9,5 @@ Jan 15, 2025 - [2667](https://leetcode.com/problems/create-hello-world-function?
 Jan 16, 2025 - [2635](https://leetcode.com/problems/apply-transform-over-each-element-in-array?envType=study-plan-v2&envId=30-days-of-javascript), [2634](https://leetcode.com/problems/filter-elements-from-array?envType=study-plan-v2&envId=30-days-of-javascript), [2626](https://leetcode.com/problems/array-reduce-transformation?envType=study-plan-v2&envId=30-days-of-javascript)
 
 Jan 17, 2025 - [2629](https://leetcode.com/problems/function-composition?envType=study-plan-v2&envId=30-days-of-javascript), [2703](https://leetcode.com/problems/return-length-of-arguments-passed?envType=study-plan-v2&envId=30-days-of-javascript), [2666](https://leetcode.com/problems/allow-one-function-call?envType=study-plan-v2&envId=30-days-of-javascript)
+
+Jan 18, 2025 - [2623](https://leetcode.com/problems/memoize?envType=study-plan-v2&envId=30-days-of-javascript)
