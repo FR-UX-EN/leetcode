@@ -11,3 +11,5 @@ Jan 16, 2025 - [2635](https://leetcode.com/problems/apply-transform-over-each-el
 Jan 17, 2025 - [2629](https://leetcode.com/problems/function-composition?envType=study-plan-v2&envId=30-days-of-javascript), [2703](https://leetcode.com/problems/return-length-of-arguments-passed?envType=study-plan-v2&envId=30-days-of-javascript), [2666](https://leetcode.com/problems/allow-one-function-call?envType=study-plan-v2&envId=30-days-of-javascript)
 
 Jan 18, 2025 - [2623](https://leetcode.com/problems/memoize?envType=study-plan-v2&envId=30-days-of-javascript)
+
+Jan 19, 2025 - [2723](https://leetcode.com/problems/add-two-promises?envType=study-plan-v2&envId=30-days-of-javascript), [2621](https://leetcode.com/problems/sleep?envType=study-plan-v2&envId=30-days-of-javascript), [2715](https://leetcode.com/problems/timeout-cancellation?envType=study-plan-v2&envId=30-days-of-javascript)
