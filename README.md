@@ -16,5 +16,6 @@ Jan 18, 2025 - [2623](https://leetcode.com/problems/memoize?envType=study-plan-v
 
 Jan 19, 2025 - [2723](https://leetcode.com/problems/add-two-promises?envType=study-plan-v2&envId=30-days-of-javascript), [2621](https://leetcode.com/problems/sleep?envType=study-plan-v2&envId=30-days-of-javascript), [2715](https://leetcode.com/problems/timeout-cancellation?envType=study-plan-v2&envId=30-days-of-javascript)
 
-Jan 20, 2025
-[2725](https://leetcode.com/problems/interval-cancellation?envType=study-plan-v2&envId=30-days-of-javascript), [2637](https://leetcode.com/problems/promise-time-limit?envType=study-plan-v2&envId=30-days-of-javascript)
+Jan 20, 2025 - [2725](https://leetcode.com/problems/interval-cancellation?envType=study-plan-v2&envId=30-days-of-javascript), [2637](https://leetcode.com/problems/promise-time-limit?envType=study-plan-v2&envId=30-days-of-javascript)
+
+Jan 21, 2025 - [2622](https://leetcode.com/problems/cache-with-time-limit?envType=study-plan-v2&envId=30-days-of-javascript)
