@@ -22,8 +22,12 @@ Jan 21, 2025 - [2622](https://leetcode.com/problems/cache-with-time-limit?envTyp
 
 Jan 22, 2025 - [2627](https://leetcode.com/problems/debounce?envType=study-plan-v2&envId=30-days-of-javascript)
 
+Jan 23, 2025 - [2721](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel?envType=study-plan-v2&envId=30-days-of-javascript)
+
 ### Following through "Programming skills" curated by Leetcode
 
 [Link to the problem set](https://leetcode.com/studyplan/programming-skills/)
 
 Jan 22, 2025 - [1768](https://leetcode.com/problems/merge-strings-alternately?envType=study-plan-v2&envId=programming-skills)
+
+Jan 23, 2025 - [389](https://leetcode.com/problems/find-the-difference?envType=study-plan-v2&envId=programming-skills)
