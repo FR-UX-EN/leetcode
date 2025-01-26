@@ -33,3 +33,5 @@ Jan 22, 2025 - [1768](https://leetcode.com/problems/merge-strings-alternately?en
 Jan 23, 2025 - [389](https://leetcode.com/problems/find-the-difference?envType=study-plan-v2&envId=programming-skills)
 
 Jan 24, 2025 - [2727](https://leetcode.com/problems/is-object-empty?envType=study-plan-v2&envId=30-days-of-javascript), [2677](https://leetcode.com/problems/chunk-array?envType=study-plan-v2&envId=30-days-of-javascript), [2619](https://leetcode.com/problems/array-prototype-last?envType=study-plan-v2&envId=30-days-of-javascript)
+
+Jan 25, 2025 - [2631](https://leetcode.com/problems/group-by?envType=study-plan-v2&envId=30-days-of-javascript), [2724](https://leetcode.com/problems/sort-by?envType=study-plan-v2&envId=30-days-of-javascript)
