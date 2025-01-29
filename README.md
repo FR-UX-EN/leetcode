@@ -30,6 +30,8 @@ Jan 25, 2025 - [2631](https://leetcode.com/problems/group-by?envType=study-plan-
 
 Jan 27, 2025 - [2722](https://leetcode.com/problems/join-two-arrays-by-id?envType=study-plan-v2&envId=30-days-of-javascript)
 
+Jan 28, 2025 - [2625](https://leetcode.com/problems/flatten-deeply-nested-array?envType=study-plan-v2&envId=30-days-of-javascript)
+
 ### Following through "Programming skills" curated by Leetcode
 
 [Link to the problem set](https://leetcode.com/studyplan/programming-skills/)
