@@ -36,6 +36,8 @@ Jan 29, 2025 - [2705](https://leetcode.com/problems/compact-object?envType=study
 
 Jan 30, 2025 - [2694](https://leetcode.com/problems/event-emitter?envType=study-plan-v2&envId=30-days-of-javascript)
 
+Jan 31, 2025 - [2695](https://leetcode.com/problems/array-wrapper?envType=study-plan-v2&envId=30-days-of-javascript), [2726](https://leetcode.com/problems/calculator-with-method-chaining?envType=study-plan-v2&envId=30-days-of-javascript)
+
 ### Following through "Programming skills" curated by Leetcode
 
 [Link to the problem set](https://leetcode.com/studyplan/programming-skills/)
