@@ -47,3 +47,5 @@ Jan 22, 2025 - [1768](https://leetcode.com/problems/merge-strings-alternately?en
 Jan 23, 2025 - [389](https://leetcode.com/problems/find-the-difference?envType=study-plan-v2&envId=programming-skills)
 
 Jan 26, 2025 - [28](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string?envType=study-plan-v2&envId=programming-skills)
+
+Jan 31, 2025 - [459](https://leetcode.com/problems/repeated-substring-pattern?envType=study-plan-v2&envId=programming-skills)
