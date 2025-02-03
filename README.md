@@ -49,3 +49,5 @@ Jan 23, 2025 - [389](https://leetcode.com/problems/find-the-difference?envType=s
 Jan 26, 2025 - [28](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string?envType=study-plan-v2&envId=programming-skills)
 
 Jan 31, 2025 - [459](https://leetcode.com/problems/repeated-substring-pattern?envType=study-plan-v2&envId=programming-skills)
+
+Feb 2, 2025 - [283](https://leetcode.com/problems/move-zeroes?envType=study-plan-v2&envId=programming-skills)
