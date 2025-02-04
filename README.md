@@ -51,3 +51,5 @@ Jan 26, 2025 - [28](https://leetcode.com/problems/find-the-index-of-the-first-oc
 Jan 31, 2025 - [459](https://leetcode.com/problems/repeated-substring-pattern?envType=study-plan-v2&envId=programming-skills)
 
 Feb 2, 2025 - [283](https://leetcode.com/problems/move-zeroes?envType=study-plan-v2&envId=programming-skills)
+
+Feb 3, 2025 - [66](https://leetcode.com/problems/plus-one?envType=study-plan-v2&envId=programming-skills)
