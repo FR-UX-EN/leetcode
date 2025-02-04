@@ -53,3 +53,5 @@ Jan 31, 2025 - [459](https://leetcode.com/problems/repeated-substring-pattern?en
 Feb 2, 2025 - [283](https://leetcode.com/problems/move-zeroes?envType=study-plan-v2&envId=programming-skills)
 
 Feb 3, 2025 - [66](https://leetcode.com/problems/plus-one?envType=study-plan-v2&envId=programming-skills)
+
+Feb 4, 2025 - [1822](https://leetcode.com/problems/sign-of-the-product-of-an-array?envType=study-plan-v2&envId=programming-skills)
