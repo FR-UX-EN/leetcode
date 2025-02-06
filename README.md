@@ -57,3 +57,5 @@ Feb 3, 2025 - [66](https://leetcode.com/problems/plus-one?envType=study-plan-v2&
 Feb 4, 2025 - [1822](https://leetcode.com/problems/sign-of-the-product-of-an-array?envType=study-plan-v2&envId=programming-skills)
 
 Feb 5, 2025 - [1502](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence?envType=study-plan-v2&envId=programming-skills)
+
+Feb 6, 2025 - [896](https://leetcode.com/problems/monotonic-array?envType=study-plan-v2&envId=programming-skills)
