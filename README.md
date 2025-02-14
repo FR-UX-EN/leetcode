@@ -68,6 +68,8 @@ Feb 11, 2025 - [682](https://leetcode.com/problems/baseball-game?envType=study-p
 
 Feb 12, 2025 - [1275](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game?envType=study-plan-v2&envId=programming-skills)
 
+Feb 13, 2025 - [1041](https://leetcode.com/problems/robot-bounded-in-circle?envType=study-plan-v2&envId=programming-skills)
+
 ### Daily Challenge
 
 Feb 9, 2025 - [1790](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal?envType=daily-question&envId=2025-02-05)
