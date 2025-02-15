@@ -70,6 +70,8 @@ Feb 12, 2025 - [1275](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe
 
 Feb 13, 2025 - [1041](https://leetcode.com/problems/robot-bounded-in-circle?envType=study-plan-v2&envId=programming-skills)
 
+Feb 14, 2025 - [1672](https://leetcode.com/problems/richest-customer-wealth?envType=study-plan-v2&envId=programming-skills)
+
 ### Daily Challenge
 
 Feb 9, 2025 - [1790](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal?envType=daily-question&envId=2025-02-05)
