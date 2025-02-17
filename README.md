@@ -74,6 +74,8 @@ Feb 14, 2025 - [1672](https://leetcode.com/problems/richest-customer-wealth?envT
 
 Feb 15, 2025 - [1572](https://leetcode.com/problems/matrix-diagonal-sum?envType=study-plan-v2&envId=programming-skills)
 
+Feb 16, 2025 - [54](https://leetcode.com/problems/spiral-matrix?envType=study-plan-v2&envId=programming-skills)
+
 ### Daily Challenge
 
 Feb 9, 2025 - [1790](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal?envType=daily-question&envId=2025-02-05)
