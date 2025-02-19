@@ -80,6 +80,8 @@ Feb 17, 2025 - [73](https://leetcode.com/problems/set-matrix-zeroes?envType=stud
 
 Feb 18, 2025 - [1523](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range?envType=study-plan-v2&envId=programming-skills)
 
+Feb 19, 2025 - [1491](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary?envType=study-plan-v2&envId=programming-skills)
+
 ### Daily Challenge
 
 Feb 9, 2025 - [1790](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal?envType=daily-question&envId=2025-02-05)
