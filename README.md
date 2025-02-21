@@ -84,6 +84,8 @@ Feb 19, 2025 - [1491](https://leetcode.com/problems/average-salary-excluding-the
 
 Feb 20, 2025 - [860](https://leetcode.com/problems/lemonade-change?envType=study-plan-v2&envId=programming-skills)
 
+Feb 21, 2025 - [976](https://leetcode.com/problems/largest-perimeter-triangle?envType=study-plan-v2&envId=programming-skills)
+
 ### Daily Challenge
 
 Feb 9, 2025 - [1790](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal?envType=daily-question&envId=2025-02-05)
