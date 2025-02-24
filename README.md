@@ -88,6 +88,8 @@ Feb 21, 2025 - [976](https://leetcode.com/problems/largest-perimeter-triangle?en
 
 Feb 22, 2025 - [1232](https://leetcode.com/problems/check-if-it-is-a-straight-line?envType=study-plan-v2&envId=programming-skills)
 
+Feb 23, 2025 - [67](https://leetcode.com/problems/add-binary?envType=study-plan-v2&envId=programming-skills)
+
 ### Daily Challenge
 
 Feb 9, 2025 - [1790](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal?envType=daily-question&envId=2025-02-05)
