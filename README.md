@@ -92,6 +92,8 @@ Feb 23, 2025 - [67](https://leetcode.com/problems/add-binary?envType=study-plan-
 
 Feb 24, 2025 - [43](https://leetcode.com/problems/multiply-strings?envType=study-plan-v2&envId=programming-skills)
 
+Feb 25, 2025 - [50](https://leetcode.com/problems/powx-n?envType=study-plan-v2&envId=programming-skills)
+
 ### Daily Challenge
 
 Feb 9, 2025 - [1790](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal?envType=daily-question&envId=2025-02-05)
