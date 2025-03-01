@@ -100,6 +100,8 @@ Feb 27, 2025 - [206](https://leetcode.com/problems/reverse-linked-list?envType=s
 
 Feb 28, 2025 - [2](https://leetcode.com/problems/add-two-numbers?envType=study-plan-v2&envId=programming-skills)
 
+Mar 1, 2025 - [445](https://leetcode.com/problems/add-two-numbers-ii?envType=study-plan-v2&envId=programming-skills)
+
 ### Daily Challenge
 
 Feb 9, 2025 - [1790](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal?envType=daily-question&envId=2025-02-05)
