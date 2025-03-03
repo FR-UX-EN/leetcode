@@ -38,6 +38,8 @@ Jan 30, 2025 - [2694](https://leetcode.com/problems/event-emitter?envType=study-
 
 Jan 31, 2025 - [2695](https://leetcode.com/problems/array-wrapper?envType=study-plan-v2&envId=30-days-of-javascript), [2726](https://leetcode.com/problems/calculator-with-method-chaining?envType=study-plan-v2&envId=30-days-of-javascript)
 
+Finished Jan 31, 2025
+
 ### Following through "Programming skills" curated by Leetcode
 
 [Link to the problem set](https://leetcode.com/studyplan/programming-skills/)
@@ -101,6 +103,12 @@ Feb 27, 2025 - [206](https://leetcode.com/problems/reverse-linked-list?envType=s
 Feb 28, 2025 - [2](https://leetcode.com/problems/add-two-numbers?envType=study-plan-v2&envId=programming-skills)
 
 Mar 1, 2025 - [445](https://leetcode.com/problems/add-two-numbers-ii?envType=study-plan-v2&envId=programming-skills)
+
+Finished Jan 31, 2025
+
+### Solving "Top Interview 150" problem sets curated by Leetcode
+
+Mar 2, 2025 - [88](https://leetcode.com/problems/merge-sorted-array?envType=study-plan-v2&envId=top-interview-150)
 
 ### Daily Challenge
 
