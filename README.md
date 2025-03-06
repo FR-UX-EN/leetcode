@@ -116,6 +116,8 @@ Mar 4, 2025 - [26](https://leetcode.com/problems/remove-duplicates-from-sorted-a
 
 Mar 5, 2025 - [169](https://leetcode.com/problems/majority-element?envType=study-plan-v2&envId=top-interview-150)
 
+Mar 6, 2025 - [80](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii?envType=study-plan-v2&envId=top-interview-150)
+
 ### Daily Challenge
 
 Feb 9, 2025 - [1790](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal?envType=daily-question&envId=2025-02-05)
