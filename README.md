@@ -122,6 +122,8 @@ Mar 7, 2025 - [189](https://leetcode.com/problems/rotate-array?envType=study-pla
 
 Mar 8, 2025 - [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock?envType=study-plan-v2&envId=top-interview-150)
 
+Mar 9, 2025 - [122](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii?envType=study-plan-v2&envId=top-interview-150)
+
 ### Daily Challenge
 
 Feb 9, 2025 - [1790](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal?envType=daily-question&envId=2025-02-05)
