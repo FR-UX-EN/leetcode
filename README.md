@@ -130,6 +130,8 @@ Mar 12, 2025 - [55](https://leetcode.com/problems/jump-game?envType=study-plan-v
 
 Mar 13, 2025 - [45](https://leetcode.com/problems/jump-game-ii?envType=study-plan-v2&envId=top-interview-150)
 
+Mar 14, 2025 - [274](https://leetcode.com/problems/h-index?envType=study-plan-v2&envId=top-interview-150)
+
 ### Daily Challenge
 
 Feb 9, 2025 - [1790](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal?envType=daily-question&envId=2025-02-05)
