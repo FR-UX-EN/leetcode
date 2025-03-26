@@ -140,6 +140,8 @@ Mar 19, 2025 - [134](https://leetcode.com/problems/gas-station?envType=study-pla
 
 Mar 20, 2025 - [135](https://leetcode.com/problems/candy?envType=study-plan-v2&envId=top-interview-150)
 
+Mar 26, 2025 - [42](https://leetcode.com/problems/trapping-rain-water?envType=study-plan-v2&envId=top-interview-150)
+
 ### Daily Challenge
 
 Feb 9, 2025 - [1790](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal?envType=daily-question&envId=2025-02-05)
