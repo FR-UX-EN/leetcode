@@ -138,6 +138,8 @@ Mar 18, 2025 - [238](https://leetcode.com/problems/product-of-array-except-self?
 
 Mar 19, 2025 - [134](https://leetcode.com/problems/gas-station?envType=study-plan-v2&envId=top-interview-150)
 
+Mar 20, 2025 - [135](https://leetcode.com/problems/candy?envType=study-plan-v2&envId=top-interview-150)
+
 ### Daily Challenge
 
 Feb 9, 2025 - [1790](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal?envType=daily-question&envId=2025-02-05)
